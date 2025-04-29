@@ -10,6 +10,6 @@
 
 2. Run `MK_SKKM_sK_HS_generation.m` to generate the local kernel-based partition. 
 
-3. Run `run_FGFMVC.m` to obtain the final clustering results. 
+3. Run `run_MCMLGF.m` to obtain the final clustering results. 
 
  
